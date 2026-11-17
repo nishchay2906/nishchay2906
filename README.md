@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Nishchay Vermani
-- 👀 I’m interested in Data Science, Machine Learning, Data Engineering, and Decision Analytics.
-- 🌱 I’m currently pursuing Master's degree in Management Analytics from Queen's University, Canada
-- 💞️ I’m looking to collaborate on AI,ML,NLP and data Science related projects
-- 📫 How to reach me  email - nishchay.vermani@queensu.ca
+# Nishchay Vermani
 
-<!---
-nishchay2906/nishchay2906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I lead data science for collections at TD in Toronto. I use experimentation, customer segmentation, and portfolio analytics to evaluate treatments and inform investment decisions. Previously, I worked in credit card fraud strategy, developing detection models and automating portfolio monitoring.
+
+I work with Python, SQL, and PySpark and hold a Master of Management Analytics from Queen’s University.
+
+## Selected projects
+
+- [Credit card fraud detection](https://github.com/nishchay2906/credit-card-fraud-detection)
+- [Customer segmentation with clustering](https://github.com/nishchay2906/customer-segmentation-clustering)
+- [Financial time-series analysis](https://github.com/nishchay2906/Time-Series-Analysis-with-financial-data)
+- [Amazon review text classification](https://github.com/nishchay2906/nlp-text-classification-amazon-reviews)
+
+[Connect on LinkedIn](https://www.linkedin.com/in/nishchayvermani/)
